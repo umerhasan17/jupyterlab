@@ -65,9 +65,11 @@ JupyterLab is the next-generation web-based user interface for Project Jupyter. 
    developer/extension_tutorial
    developer/extension_migration
 
-Indices and Tables
-------------------
+..
+   TODO Create pages for links below 
+   Indices and Tables
+   ------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
